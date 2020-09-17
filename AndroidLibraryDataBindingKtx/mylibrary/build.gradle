@@ -48,7 +48,7 @@ project.afterEvaluate {
                 // Applies the component for the debug build variant.
                 from components.debug
 
-                groupId = 'net.kwmt27.androidlib'
+                groupId = 'net.kwmt27.mylibrary'
                 artifactId = 'databinding-ktx'
                 version = '1.0'
             }
