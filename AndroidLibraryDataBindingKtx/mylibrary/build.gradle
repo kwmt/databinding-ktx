@@ -46,6 +46,10 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 }
 
+repositories {
+    maven { url "https://www.jitpack.io" }
+}
+
 project.afterEvaluate {
     publishing {
         publications {
