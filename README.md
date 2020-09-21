@@ -23,7 +23,7 @@ Required by:
 mylibrary/Tasks/publishing/publishToMavenLocal
 ```
 
-2. `MyApplication`でビルドを実行
+2. `MyApplication`でgradle sync とビルドを実行
 
 
 
